@@ -1,0 +1,11 @@
+{
+  "name": "lumbark_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.3",
+    "node-fetch": "^2.6.1"
+  }
+}
